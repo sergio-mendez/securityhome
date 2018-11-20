@@ -1,0 +1,15 @@
+body{
+  // background: #1B85EC;
+
+  width: 100%;
+  height: 100%;
+}
+
+.error-message{
+  color: red;
+}
+
+@import './components/login';
+@import './components/dashboard/style';
+@import './components/dashboard/blue';
+@import './components/dashboard/campaigns';
